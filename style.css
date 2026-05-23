@@ -237,16 +237,16 @@ header {
   transform:translateY(-8px);
   box-shadow:0 10px 30px rgba(0,0,0,.3);
 }
-.p-card h3 {
+.card h3 {
     color: var(--text);
     margin-bottom: 8px;
 }
 
-.p-card p {
+.card p {
     color: var(--text);
     margin-bottom: 20px;
 }
-.p-card a {
+.card a {
     text-decoration: none;
     color: var(--text);
     padding: 10px 18px;
